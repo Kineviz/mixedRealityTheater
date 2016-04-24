@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8F0D0CAA-C7F2-717D-0DA8-785BC3799761}") = "mixedReality", "Assembly-CSharp-firstpass.csproj", "{8268DAEF-7AAF-A535-878E-3A289342E3C0}"
+EndProject
+Project("{8F0D0CAA-C7F2-717D-0DA8-785BC3799761}") = "mixedReality", "Assembly-CSharp.csproj", "{2848020A-2724-0679-4288-82F5477855C1}"
+EndProject
+Project("{8F0D0CAA-C7F2-717D-0DA8-785BC3799761}") = "mixedReality", "Assembly-CSharp-Editor.csproj", "{F9AF18F0-6C1F-22DC-5A94-B5081E304F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8268DAEF-7AAF-A535-878E-3A289342E3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8268DAEF-7AAF-A535-878E-3A289342E3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8268DAEF-7AAF-A535-878E-3A289342E3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8268DAEF-7AAF-A535-878E-3A289342E3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2848020A-2724-0679-4288-82F5477855C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2848020A-2724-0679-4288-82F5477855C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2848020A-2724-0679-4288-82F5477855C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2848020A-2724-0679-4288-82F5477855C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AF18F0-6C1F-22DC-5A94-B5081E304F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AF18F0-6C1F-22DC-5A94-B5081E304F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AF18F0-6C1F-22DC-5A94-B5081E304F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AF18F0-6C1F-22DC-5A94-B5081E304F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
